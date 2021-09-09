@@ -1,4 +1,5 @@
 # mengimport package pyTelegramBotAPI
+pip install pyTelegramBotAPI
 import telebot
 
 # inisialisasi Token Bot Kita
